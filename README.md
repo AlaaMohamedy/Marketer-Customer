@@ -2,7 +2,7 @@
 
 1-Marketer 
 
--publish offer
+- publish offer
 
 - delete offer
 
@@ -10,7 +10,7 @@
 
 2-Customer
 
--get all offers
+- get all offers
 
 - get offer by id
 
